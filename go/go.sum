@@ -1,0 +1,6 @@
+github.com/pivotalservices/gtils v0.1.60 h1:cNagQCYioL/HJmd8aA/9qkVS1QrbDRGZDp9/V/Uu6+M=
+github.com/pivotalservices/gtils v0.1.60/go.mod h1:/xrR791TMCwlFN7TEp4vRxe+gUHFulnb20P2nm71iNU=
+github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07 h1:UyzmZLoiDWMRywV4DUYb9Fbt8uiOSooupjTq10vpvnU=
+github.com/tarm/serial v0.0.0-20180830185346-98f6abe2eb07/go.mod h1:kDXzergiv9cbyO7IOYJZWg1U88JhDg3PB6klq9Hg2pA=
+golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e h1:N7DeIrjYszNmSW409R3frPPwglRwMkXSBzwVbkOjLLA=
+golang.org/x/sys v0.0.0-20191120155948-bd437916bb0e/go.mod h1:h1NjWce9XRLGQEsW7wpKNCjG9DtNlClVuFLEZdDNbEs=
