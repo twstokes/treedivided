@@ -28,7 +28,7 @@ I used Golang for the software since I primarily write code in [another language
 
 The source code for a local data fetcher is included in this repo only. The remote fetcher I built may or may not have used an API meant for this sort of consumption. It simply fetched from a remote data source, unmarshalled a JSON data structure, and supplied what the Fetcher interface needed.
 
-The code runs on a Raspberry Pi and communicates with the MCU via serial. An [iHome IBT63 speaker](https://www.ihomeaudio.com/support/product/iBT63BC/) is used to play audio from the Raspberry Pi. I didn't use the Bluetooth connection and instead used the shared power and audio connector, plugging one end into the RPI's stereo jack and the other into the USB port.
+The code runs on a Raspberry Pi and communicates with the MCU via serial. An [iHome IBT63 speaker](https://www.ihomeaudio.com/support/product/iBT63BC/) is used to play audio from the Raspberry Pi. I didn't use the Bluetooth connection and instead used the shared power and audio connector, plugging one end into the RPi's stereo jack and the other into the USB port.
 
 I cross-compiled from my Mac using the `rpi.sh` script in the executable's directory.
 
